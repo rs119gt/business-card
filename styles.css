@@ -1,0 +1,26 @@
+.card{
+    font-family:Arial, Helvetica, sans-serif ;
+    width:400px;
+    margin:0 px auto;
+    text-align:center;
+    display:flex;
+    justify-content:space-around;
+    border-radius:12px;
+    color:#a8dadc ;
+    padding:20px;
+    background:#457b9d;
+    border-bottom:10px #e63946 solid;
+}
+.image-profile{
+    width:150px;
+    border-radius:15px;
+    border:2px #a8dadc solid;
+    box-shadow: 4px 4px;
+}
+.contents{
+    margin-top: 20px;
+    width:170px;
+}
+.image-profile:hover,.contents:hover{
+color:#071a25;
+}
